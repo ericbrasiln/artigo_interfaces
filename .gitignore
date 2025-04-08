@@ -1,0 +1,19 @@
+# Ignorar caches do Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignorar arquivos de backup do editor
+*~
+*.swp
+*.swo
+
+# Ignorar notebooks com outputs pesados (opcional, remova se quiser manter outputs)
+# *.ipynb_checkpoints/
+
+# Ignorar diretórios de gráficos gerados automaticamente (se não quiser versionar)
+# charts/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
