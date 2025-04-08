@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se você usar os dados, códigos ou gráficos deste repositório, por favor cite:"
+title: "Interfaces de Hemerotecas Digitais em Português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos"
+type: dataset
+authors:
+  - family-names: Brasil
+    given-names: Eric
+    orcid: https://orcid.org/0000-0001-5067-8475
+    affiliation: Instituto de Humanidades e Letras, UNILAB
+date-released: 2025-04-08
+version: "1.0.1"
+doi: 10.5281/zenodo.15177362
+license: CC-BY-NC-SA-4.0
+repository-code: https://github.com/ericbrasiln/artigo_interfaces
+url: https://doi.org/10.5281/zenodo.15177362
+abstract: >
+  Este repositório contém os dados, códigos e gráficos utilizados no artigo publicado na revista Matraga.
+  Ele reúne os materiais de apoio à análise crítica das interfaces gráficas de usuário de hemerotecas digitais
+  em português, conforme discutido no artigo. O material foi desenvolvido como parte da pesquisa de pós-doutorado
+  de Eric Brasil no Instituto de História Contemporânea da Universidade NOVA de Lisboa, com apoio da FCT.
+
