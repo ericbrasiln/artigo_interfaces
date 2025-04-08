@@ -5,21 +5,22 @@ _Repositório de dados, códigos e gráficos do artigo publicado na Revista Matr
 
 Este repositório reúne os **dados**, **códigos** e **gráficos** produzidos para o artigo:
 
-**Interfaces de hemerotecas digitais em português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos**, de autoria de *Eric Brasil*, publicado na revista *Matraga* (citação completa em breve).
+**Interfaces de hemerotecas digitais em português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos**, de autoria de [*Eric Brasil*](https://ericbrasil.com.br/contact/), publicado na revista *Matraga* (citação completa em breve).
 
 ## Estrutura do repositório
 
 ```
 artigo_interfaces/
-├── charts/                         # Gráficos gerados para o artigo
-├── data/                           # Dados utilizados na análise
-│   ├── InterfaceReview-pt-2023.csv
-│   └── InterfaceReview-pt-2023-mapping.tsv
-├── notebooks/                      # Cadernos e scripts em Python
+├── charts/            # Gráficos gerados para o artigo
+├── data/              # Arquivos de dados (.csv e .tsv)
+├── notebooks/         # Notebooks e scripts Python para análise e visualização
 │   ├── Interface_Reviews.ipynb
 │   └── radar_factory.py
-├── README.md                       # Este arquivo
-└── LICENSE.md                      # Licença
+├── .gitignore         # Arquivo de configuração para ignorar arquivos no Git
+├── .zenodo.json       # Metadados de publicação no Zenodo
+├── CITATION.cff       # Informações formais para citação do repositório
+├── LICENSE.md         # Licença Creative Commons BY-NC-SA 4.0
+└── README.md          # Este documento
 ```
 
 ## Contexto da pesquisa
@@ -35,7 +36,12 @@ Os resultados completos do estágio pós-doutoral estão disponíveis no Jupyter
 
 ## Disponibilização
 
-Este repositório está  depositado no **Zenodo** com o DOI.
+Este repositório está depositado no **[Zenodo](https://zenodo.org/)** e associado ao artigo _Interfaces de Hemerotecas Digitais em Português_, publicado na revista Matraga.
+
+A versão arquivada com DOI pode ser acessada em:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15177362.svg)](https://doi.org/10.5281/zenodo.15177362)
+
 
 ## Licença
 
