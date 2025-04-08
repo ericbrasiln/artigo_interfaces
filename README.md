@@ -4,7 +4,7 @@ Este repositório reúne os **dados**, **códigos** e **gráficos** produzidos p
 
 **Interfaces de hemerotecas digitais em português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos**, de autoria de *Eric Brasil*, publicado na revista *Matraga* (citação completa em breve).
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```
 artigo_interfaces/
@@ -19,7 +19,7 @@ artigo_interfaces/
 └── LICENSE.md                      # Licença
 ```
 
-## 📚 Contexto da pesquisa
+## Contexto da pesquisa
 
 Este artigo é resultado da pesquisa de **pós-doutorado** desenvolvida no **Instituto de História Contemporânea (IHC)**[^ihc] da **Faculdade de Ciências Sociais e Humanas da Universidade NOVA de Lisboa**, no **Laboratório de Humanidades Digitais**, entre **outubro de 2022 e outubro de 2023**, sob a supervisão do **Prof. Dr. Daniel Alves**.
 
@@ -27,14 +27,14 @@ Este artigo é resultado da pesquisa de **pós-doutorado** desenvolvida no **Ins
 
 Os resultados completos do estágio pós-doutoral estão disponíveis no Jupyter Book:
 
-🔗 https://ericbrasil.com.br/hemdig-framework  
-📘 Brasil, E. (2023). *HEMDIG(pt) Framework: Métodos, ferramentas e hemerotecas digitais em português* (Version v1.0.0). Jupyter Book. https://doi.org/10.5281/zenodo.8397782
+- https://ericbrasil.com.br/hemdig-framework  
+- Brasil, E. (2023). *HEMDIG(pt) Framework: Métodos, ferramentas e hemerotecas digitais em português* (Version v1.0.0). Jupyter Book. https://doi.org/10.5281/zenodo.8397782
 
-## 📤 Disponibilização
+## Disponibilização
 
-Este repositório será depositado no **Zenodo** com um DOI.
+Este repositório está  depositado no **Zenodo** com o DOI.
 
-## 📝 Licença
+## Licença
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a>  
 Este repositório está licenciado com uma Licença [Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/).

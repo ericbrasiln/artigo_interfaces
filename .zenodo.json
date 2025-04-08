@@ -1,0 +1,32 @@
+{
+    "title": "Interfaces de Hemerotecas Digitais em Português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos",
+    "upload_type": "dataset",
+    "description": "Este repositório reúne os dados, códigos e gráficos do artigo publicado na revista Matraga, resultado da pesquisa de pós-doutorado de Eric Brasil no Instituto de História Contemporânea (IHC) da Universidade NOVA de Lisboa. O estudo apresenta uma análise crítica das interfaces gráficas de usuário de hemerotecas digitais em português, com base no método impresso.",
+    "creators": [
+        {
+            "name": "Brasil, Eric",
+            "affiliation": "Instituto de Humanidades e Letras, UNILAB",
+            "orcid": "0000-0002-1297-2527"
+        }
+    ],
+    "license": "CC-BY-NC-SA-4.0",
+    "keywords": [
+        "Humanidades Digitais",
+        "Hemerotecas Digitais",
+        "História Digital",
+        "Interfaces gráficas",
+        "Análise de acervos digitais",
+        "Portugal",
+        "Brasil"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/ericbrasiln/artigo_interfaces",
+            "relation": "isSupplementTo",
+            "scheme": "url"
+        }
+    ],
+    "access_right": "open",
+    "language": "por",
+    "version": "1.0.0"
+}
