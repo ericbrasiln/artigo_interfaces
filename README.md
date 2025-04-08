@@ -1,4 +1,7 @@
-# artigo_interfaces
+# Interfaces de Hemerotecas Digitais em Português
+_Repositório de dados, códigos e gráficos do artigo publicado na Revista Matraga_
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15177362.svg)](https://doi.org/10.5281/zenodo.15177362)
 
 Este repositório reúne os **dados**, **códigos** e **gráficos** produzidos para o artigo:
 
