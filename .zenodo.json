@@ -1,7 +1,7 @@
 {
     "title": "Dados, códigos e gráficos do artigo “Interfaces de Hemerotecas Digitais em Português”, publicado na Revista Matraga",
     "upload_type": "dataset",
-    "description": "Este repositório reúne os dados, códigos e gráficos do artigo publicado na revista Matraga, resultado da pesquisa de pós-doutorado de Eric Brasil no Instituto de História Contemporânea (IHC) da Universidade NOVA de Lisboa. O estudo apresenta uma análise crítica das interfaces gráficas de usuário de hemerotecas digitais em português, com base no método impresso. A versão arquivada com DOI está disponível em: [https://doi.org/10.5281/zenodo.15177362](https://doi.org/10.5281/zenodo.15177362) **Full Changelog**: https://github.com/ericbrasiln/artigo_interfaces/compare/v1.0.1...v1.0.3",
+    "description": "Este repositório reúne os dados, códigos e gráficos do artigo publicado na revista Matraga, resultado da pesquisa de pós-doutorado de Eric Brasil no Instituto de História Contemporânea (IHC) da Universidade NOVA de Lisboa. O estudo apresenta uma análise crítica das interfaces gráficas de usuário de hemerotecas digitais em português, com base no método impresso. A versão arquivada com DOI está disponível em: [https://doi.org/10.5281/zenodo.15177362](https://doi.org/10.5281/zenodo.15177362) **Full Changelog**: https://github.com/ericbrasiln/artigo_interfaces/compare/v1.0.1...v1.0.4",
     "creators": [
         {
             "name": "Brasil, Eric",
@@ -28,5 +28,5 @@
     ],
     "access_right": "open",
     "language": "por",
-    "version": "1.0.3"
+    "version": "1.0.4"
 }
